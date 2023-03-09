@@ -1,5 +1,5 @@
 terraform {
-  source = "../modules/slug"
+  source = "../../modules/slug"
 }
 
 inputs = {
