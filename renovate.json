@@ -4,7 +4,7 @@
   "lockFileMaintenance": {
     "enabled": true,
     "schedule": [
-      "never"
+      "on the 1st of March"
     ]
   },
   "timezone": "America/Los_Angeles"
