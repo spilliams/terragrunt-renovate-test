@@ -4,7 +4,7 @@
   "lockFileMaintenance": {
     "enabled": true,
     "schedule": [
-      "every 12 months on the 13th of the month"
+      "every 12 months on the 13th day of the month"
     ]
   },
   "timezone": "America/Los_Angeles"
